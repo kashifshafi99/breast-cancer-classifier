@@ -2,7 +2,7 @@
 
 A decision-support model that classifies breast tissue samples as **malignant** or **benign** from digitized cell-nucleus measurements, built in Python with scikit-learn.
 
-> Course project for DATA 601: Working With Data and Visualization, Master of Data Science and Analytics, University of Calgary (Fall 2026). Team: **Kashif Shafi**, Regan Todd and Naveen Anend.
+> Group course project for DATA 601: Working With Data and Visualization, Master of Data Science and Analytics, University of Calgary (Fall 2026).
 
 ## The question
 
